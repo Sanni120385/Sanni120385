@@ -1,7 +1,11 @@
-<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="988" height="556">
-</body>
-## Hi there 👋
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+  
+
+ <h1 align="center" style="font-size: 24px;">Hi there 👋 My name is Oleksandr Martynov</H1>
 
 <!--
 **Sanni120385/Sanni120385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
