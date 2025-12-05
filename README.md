@@ -6,7 +6,7 @@
   
 
  <h1 align="center" style="font-size: 24px;">Hi there 👋 My name is Oleksandr Martynov</H1>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oleksandr Martynov
+
 ===========================================================================================================================================
 
 Web developer
